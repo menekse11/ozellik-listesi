@@ -2,3 +2,4 @@
 2. Otomatik şarkı önerileri
 3. Podcast desteği
 4. Müzik paylaşma özelliği
+5. Çevrimdışı dinleme
