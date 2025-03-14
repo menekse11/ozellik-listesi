@@ -1,4 +1,5 @@
-1. Ekolayzır ayarları
+1. Podcast desteği
 2. Otomatik şarkı önerileri
 3. Müzik paylaşma özelliği
 4. Çevrimdışı dinleme
+
